@@ -1,0 +1,19 @@
+<Files .htaccess> 
+order allow,deny 
+deny from all 
+</Files> 
+
+ErrorDocument 404 /error.php
+ErrorDocument 405 /error.php
+ErrorDocument 500 /error.php
+ErrorDocument 401 /error.php
+ErrorDocument 403 /error.php
+
+RewriteEngine On
+
+RewriteRule ^events$ events.php
+RewriteRule ^enroll$ enroll.php
+RewriteRule ^enquiry$ contactUs.php
+RewriteRule ^directions$ direction.php
+RewriteRule ^ODM$ ODM.php
+RewriteRule ^schedule$ schedule.php

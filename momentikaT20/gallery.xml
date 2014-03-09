@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gallery frameColor="0xFFFFFF" frameWidth="2" imagePadding="20" displayTime="6" enableRightClickOpen="true">
+<image>
+   <url>images/a.jpg</url>
+   <caption></caption>
+   <width>800</width>
+   <height>566</height>
+</image>
+<image>
+   <url>images/b.jpg</url>
+   <caption></caption>
+   <width>800</width>
+   <height>566</height>
+</image>
+<image>
+   <url>images/c.jpg</url>
+   <caption></caption>
+   <width>800</width>
+   <height>566</height>
+</image>
+<image>
+   <url>images/d.jpg</url>
+    <caption></caption>
+   <width>399</width>
+   <height>566</height>
+</image>
+<image>
+   <url>images/e.jpg</url>
+    <caption></caption>
+   <width>399</width>
+   <height>566</height>
+</image>
+<image>
+   <url>images/f.jpg</url>
+    <caption></caption>
+   <width>399</width>
+   <height>566</height>
+</image>
+<image>
+   <url>images/g.jpg</url>
+   <caption></caption>
+   <width>800</width>
+   <height>566</height>
+</image>
+<image>
+   <url>images/h.jpg</url>
+   <caption></caption>
+   <width>800</width>
+   <height>566</height>
+</image>
+<image>
+   <url>images/i.jpg</url>
+    <caption></caption>
+   <width>399</width>
+   <height>566</height>
+</image>
+<image>
+   <url>images/j.jpg</url>
+    <caption></caption>
+   <width>399</width>
+   <height>566</height>
+</image>
+<image>
+   <url>images/k.jpg</url>
+    <caption></caption>
+   <width>399</width>
+   <height>566</height>
+</image>
+<image>
+   <url>images/l.jpg</url>
+   <caption></caption>
+   <width>800</width>
+   <height>566</height>
+</image>
+<image>
+   <url>images/m.jpg</url>
+   <caption></caption>
+   <width>800</width>
+   <height>566</height>
+</image>
+<image>
+   <url>images/n.jpg</url>
+    <caption></caption>
+   <width>399</width>
+   <height>566</height>
+</image>
+<image>
+   <url>images/o.jpg</url>
+    <caption></caption>
+   <width>399</width>
+   <height>566</height>
+</image>
+<image>
+   <url>images/p.jpg</url>
+   <caption></caption>
+   <width>800</width>
+   <height>566</height>
+</image>
+<image>
+   <url>images/q.jpg</url>
+   <caption></caption>
+   <width>800</width>
+   <height>566</height>
+</image>
+<image>
+   <url>images/r.jpg</url>
+   <caption></caption>
+   <width>800</width>
+   <height>566</height>
+</image>
+<image>
+   <url>images/s.jpg</url>
+    <caption></caption>
+   <width>399</width>
+   <height>566</height>
+</image>
+<image>
+   <url>images/t.jpg</url>
+    <caption></caption>
+   <width>399</width>
+   <height>566</height>
+</image>
+</gallery>

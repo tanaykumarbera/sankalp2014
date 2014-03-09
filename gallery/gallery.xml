@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gallery frameColor="0xFFFFFF" frameWidth="15" imagePadding="20" displayTime="6" enableRightClickOpen="true">
+<image>
+   <url>images/1.jpg</url>
+   <caption></caption>
+   <width>800</width>
+   <height>450</height>
+</image>
+<image>
+   <url>images/2.jpg</url>
+    <caption></caption>
+   <width>800</width>
+   <height>450</height>
+</image>
+<image>
+   <url>images/3.jpg</url>
+    <caption></caption>
+   <width>800</width>
+   <height>450</height>
+</image>
+<image>
+   <url>images/4.jpg</url>
+    <caption></caption>
+   <width>800</width>
+   <height>450</height>
+</image>
+<image>
+   <url>images/5.jpg</url>
+    <caption></caption>
+   <width>800</width>
+   <height>450</height>
+</image>
+<image>
+   <url>images/6.jpg</url>
+    <caption></caption>
+   <width>800</width>
+   <height>450</height>
+</image>
+<image>
+   <url>images/7.jpg</url>
+    <caption></caption>
+   <width>800</width>
+   <height>450</height>
+</image>
+<image>
+   <url>images/8.jpg</url>
+    <caption></caption>
+   <width>800</width>
+   <height>450</height>
+</image>
+<image>
+   <url>images/9.jpg</url>
+    <caption></caption>
+   <width>800</width>
+   <height>450</height>
+</image>
+<image>
+   <url>images/10.jpg</url>
+    <caption></caption>
+   <width>800</width>
+   <height>450</height>
+</image>
+<image>
+   <url>images/11.jpg</url>
+    <caption></caption>
+   <width>800</width>
+   <height>450</height>
+</image>
+<image>
+   <url>images/12.jpg</url>
+    <caption></caption>
+   <width>800</width>
+   <height>450</height>
+</image>
+<image>
+   <url>images/13.jpg</url>
+    <caption></caption>
+   <width>800</width>
+   <height>450</height>
+</image>
+<image>
+   <url>images/14.jpg</url>
+    <caption></caption>
+   <width>800</width>
+   <height>450</height>
+</image>
+</gallery>

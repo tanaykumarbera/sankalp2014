@@ -1,0 +1,42 @@
+root { 
+    display: block;
+}
+
+html{
+    min-width: 980px;
+}
+
+.row{
+    width: 100%;
+}
+#dock{
+    position: fixed;
+    bottom: 30px;
+    height: 50px;
+    width: 100%;
+}
+#dock ul{
+    list-style: none;
+    width: fit-content;
+    width: -webkit-fit-content;
+    width: -moz-fit-content;
+}
+#dock ul li{
+    float: left;
+}
+
+.dockIcon{
+    height: 50px;
+    width: 50px; 
+    background: #ccc;
+    border-radius: 50%;
+}
+.gap{
+    min-height: 50px;
+    width: 10px;
+}
+.blockC{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
